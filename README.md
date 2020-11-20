@@ -38,6 +38,8 @@ npm start
 
 * Check the port on the specified port on the env or 8080
 
+* For initial DataBase setup, the command Line will prompt you for Administrator's Details to be used to register the Application's Administrator.
+
 ### API Documentation ###
 
 Check this [Postman Documentation](https://documenter.getpostman.com/view/11194465/TVetbRhd) for all available EndPoints and features.
